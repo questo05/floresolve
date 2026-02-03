@@ -1,0 +1,6 @@
+streamlit
+pandas
+pulp
+xlsxwriter
+openpyxl
+io
